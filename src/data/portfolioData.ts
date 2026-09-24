@@ -13,7 +13,6 @@ export const PERSONAL_INFO = {
   githubUrl: 'https://github.com/choudribasavaraj28-wq',
   linkedinUrl: 'https://www.linkedin.com',
   email: 'choudribasavarj28@gmail.com',
-  phone: '+91 9980613807',
   status: 'SYSTEM: ACTIVE',
   currentProtocol: 'Python • Linux • Networking • Cybersecurity Fundamentals',
   bioIntro: "I'm Basavaraj Choudri, a B.Tech Artificial Intelligence and Data Science student at REVA University, currently building strong foundations in cybersecurity, Python, Linux, networking, and ethical hacking through hands-on learning and practical projects.",
